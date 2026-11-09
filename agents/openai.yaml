@@ -1,0 +1,8 @@
+interface:
+  display_name: "YouYuan-Comparison-Poster"
+  short_description: "根据真实素材设计、排版并检查友缘家政等品牌的前后对比海报"
+  default_prompt: "使用 $youyuan-comparison-poster 根据真实照片制作一组清洁前后对比海报"
+policy:
+  allow_implicit_invocation: true
+
+
