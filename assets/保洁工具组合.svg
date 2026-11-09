@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 132" fill="none" role="img" aria-label="喷壶、清洁刷和抹布">
+  <defs>
+    <linearGradient id="cleaningBottle" x1="35" y1="53" x2="84" y2="118" gradientUnits="userSpaceOnUse"><stop stop-color="#F3FBF7"/><stop offset="1" stop-color="#D5EBE4"/></linearGradient>
+  </defs>
+  <ellipse cx="158" cy="104" rx="146" ry="18" fill="#DDECE9" opacity=".74"/>
+  <g stroke="#658B97" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 49H72L84 65V108C84 113 80 117 75 117H43C38 117 34 113 34 108V67L48 49Z" fill="url(#cleaningBottle)"/>
+    <rect x="48" y="40" width="25" height="12" rx="3" fill="#86AFB7"/>
+    <path d="M49 39V26H78L92 33V40H72V36H62V40H49Z" fill="#BDDCD9"/>
+    <path d="M76 41C75 48 72 52 68 56"/>
+    <path d="M91 34H97"/>
+    <rect x="43" y="77" width="31" height="25" rx="6" fill="#B8DCD3" stroke="none"/>
+    <path d="M59 82C56 87 53 89 53 92C53 96 56 98 59 98C62 98 65 96 65 92C65 89 62 87 59 82Z" fill="#F3FBF7" stroke="none"/>
+    <path d="M39 70V105" stroke="#FFFFFF" stroke-width="2" opacity=".9"/>
+  </g>
+  <g fill="#91B7BE"><circle cx="105" cy="29" r="1.8"/><circle cx="113" cy="24" r="1.7"/><circle cx="116" cy="35" r="1.5"/></g>
+  <g stroke="#7399A2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M107 88L164 82L190 101L186 113L128 123L107 102V88Z" fill="#BCD8D2"/>
+    <path d="M107 88L164 82L190 101L126 111L107 88Z" fill="#DFEEE8"/>
+    <path d="M126 111L128 123"/>
+    <path d="M118 91L165 87M122 96L169 92" stroke="#F7FCF9" opacity=".95"/>
+  </g>
+  <g transform="translate(194 57) rotate(-16 43 30)" stroke="#638A97" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M8 26C8 14 22 8 42 8C62 8 76 14 76 26V32H8V26Z" fill="#AACFD0"/>
+    <path d="M25 19C25 8 58 8 58 19" stroke="#5E8592" stroke-width="3.1"/>
+    <path d="M9 32H75V47H9V32Z" fill="#EDF5F1"/>
+    <path d="M15 33V47M23 33V47M31 33V47M39 33V47M47 33V47M55 33V47M63 33V47M71 33V47" stroke="#8BAAB3" stroke-width="1.7"/>
+  </g>
+  <path d="M289 30C290 39 294 43 303 44C294 45 290 49 289 58C288 49 284 45 275 44C284 43 288 39 289 30Z" fill="#F9FEFB" stroke="#A1C6CD" stroke-width="1.5"/>
+  <circle cx="304" cy="77" r="2.4" fill="#B2CED3"/>
+</svg>
